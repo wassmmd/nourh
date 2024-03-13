@@ -1,0 +1,37 @@
+<nb-layout>
+    <nb-layout-column>
+        <div class="row">
+            <div class="col-12">
+                <nb-card class="shadow-lg">
+                    <nb-card-body class="p-0">
+                        <div class="d-flex h-100">
+                            <div class="col-7 login-img"></div>
+                            <div class="col-5">
+                                <div class="login-content">
+                                    <h1>TFA</h1>
+                                    <form class="login-form" (submit)="login()" [formGroup]="loginForm" >
+                                        <div class="form-control-group">
+                                            <label>code :</label>
+                                            <input nbInput
+                                                   class="form-control"
+                                                   fullWidth
+                                                   placeholder="tipe your code here"
+                                                   formControlName="code"
+                                                   autofocus>
+                                        </div>
+                                       
+                                        <button nbButton fullWidth type="submit" status="info" class="mt-5 shadow-lg"
+                                        [disabled]="loginForm.invalid" >
+                                            login
+                                        </button>
+                                        
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </nb-card-body>
+                </nb-card>
+            </div>
+        </div>
+    </nb-layout-column>
+</nb-layout>
