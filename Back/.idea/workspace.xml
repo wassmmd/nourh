@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66b553e6-f008-465d-ab95-865cb65fdbf5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booth/src/main/java/com/example/supplier/BoothApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Booth/src/main/java/com/example/user/BoothApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booth/src/main/java/com/example/supplier/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Booth/src/main/java/com/example/user/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booth/src/main/java/com/example/supplier/Entity/Booth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Booth/src/main/java/com/example/user/Entity/Booth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booth/src/main/java/com/example/supplier/Repository/BoothRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Booth/src/main/java/com/example/user/Repository/BoothRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booth/src/main/java/com/example/supplier/Service/BoothService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Booth/src/main/java/com/example/user/Service/BoothService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booth/src/main/java/com/example/supplier/Service/BoothServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Booth/src/main/java/com/example/user/Service/BoothServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booth/src/test/java/com/example/supplier/BoothApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Booth/src/test/java/com/example/user/BoothApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configServer/src/main/resources/configurations/gateway.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configServer/src/main/resources/configurations/gateway.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Front/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Front/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cHTihWBkjUwYBaSBSilRGwaYP4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ConfigServerApplication.executor": "Run",
+    "Spring Boot.GatewayApplication.executor": "Run",
+    "Spring Boot.UserApplication.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/pi/DevXpertsProject/Back",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.user.Entities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\pi\DevXpertsProject\Back\UserGestion\src\main\java\com\example\supplier\Service" />
+      <recent name="C:\Users\ASUS\Desktop\pi\DevXpertsProject\Back\UserGestion\src\main\java\com\example\supplier\Repository" />
+      <recent name="C:\Users\ASUS\Desktop\pi\DevXpertsProject\Back\UserGestion\src\main\java\com\example\supplier\Entity" />
+      <recent name="C:\Users\ASUS\Desktop\pi\DevXpertsProject\Back\UserGestion\src\main\java\com\example\supplier\Controller" />
+      <recent name="C:\Users\ASUS\Desktop\pi\DevXpertsProject\Back" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.user.Service" />
+      <recent name="com.example.user.Controller" />
+      <recent name="com.example.user.Entities" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration name="All in User" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="User" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoothApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Booth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.user.BoothApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="configServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.discovery.DiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExhibitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Exhibitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.exhibitor.ExhibitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="User" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.user.GestionUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="User" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.user.GestionUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="User" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in User" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66b553e6-f008-465d-ab95-865cb65fdbf5" name="Changes" comment="" />
+      <created>1707767633313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707767633313</updated>
+      <workItem from="1707767634404" duration="1872000" />
+      <workItem from="1707847071036" duration="3758000" />
+      <workItem from="1707939309235" duration="14893000" />
+      <workItem from="1708003384617" duration="1227000" />
+      <workItem from="1708004654928" duration="4212000" />
+      <workItem from="1708283272832" duration="3340000" />
+      <workItem from="1708287624891" duration="6150000" />
+      <workItem from="1708351693216" duration="311000" />
+      <workItem from="1708353087644" duration="5374000" />
+      <workItem from="1708373109727" duration="4626000" />
+      <workItem from="1708649133418" duration="4048000" />
+      <workItem from="1708689081244" duration="582000" />
+      <workItem from="1709392976318" duration="1520000" />
+      <workItem from="1709483977043" duration="597000" />
+      <workItem from="1709486536171" duration="1347000" />
+      <workItem from="1709579684683" duration="67000" />
+      <workItem from="1709779078675" duration="494000" />
+      <workItem from="1709827363660" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cmd" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.ws.rs:jakarta.ws.rs-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.xml.ws:jakarta.xml.ws-api" />
+  </component>
+</project>
